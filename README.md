@@ -79,31 +79,11 @@ A productivity application to organize daily tasks with authentication.
 
 ---
 
-# GitHub Streak 🔥
 
 # GitHub Streak 🔥
 <p align="center">
-  <svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="495" height="195" rx="4.5" fill="#1A1B26" stroke="#101015" stroke-width="2"/>
-    <text x="70" y="55" fill="#7AA2F7" font-family="Segoe UI, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">47</text>
-    <text x="70" y="85" fill="#707880" font-family="Segoe UI, sans-serif" font-size="14" text-anchor="middle">Total Contributions</text>
-    <text x="70" y="110" fill="#7AA2F7" font-family="Segoe UI, sans-serif" font-size="12" text-anchor="middle">Jan 1, 2026 - Present</text>
-    
-    <line x1="165" y1="25" x2="165" y2="170" stroke="#707880" stroke-opacity="0.3"/>
-    
-    <text x="247" y="55" fill="#BB9AF7" font-family="Segoe UI, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">2</text>
-    <text x="247" y="85" fill="#BB9AF7" font-family="Segoe UI, sans-serif" font-size="14" font-weight="bold" text-anchor="middle">Current Streak</text>
-    <text x="247" y="110" fill="#BB9AF7" font-family="Segoe UI, sans-serif" font-size="12" text-anchor="middle">Aug 15 - Aug 16</text>
-    
-    <line x1="330" y1="25" x2="330" y2="170" stroke="#707880" stroke-opacity="0.3"/>
-    
-    <text x="412" y="55" fill="#7AA2F7" font-family="Segoe UI, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">2</text>
-    <text x="412" y="85" fill="#707880" font-family="Segoe UI, sans-serif" font-size="14" text-anchor="middle">Longest Streak</text>
-    <text x="412" y="110" fill="#7AA2F7" font-family="Segoe UI, sans-serif" font-size="12" text-anchor="middle">Jul 5 - Jul 6</text>
-  </svg>
+  <img src="./streak.svg" alt="GitHub Streak" />
 </p>
-
----
 
 # Contribution Graph 📈
 <p align="center">
