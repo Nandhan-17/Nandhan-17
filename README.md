@@ -92,9 +92,9 @@ A productivity application to organize daily tasks with authentication.
 
 ---
 
-# GitHub Trophies 🏆
+# GitHub Streak 🔥
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[Nandhan-17]&theme=tokyonight&no-frame=true&margin_w=10"/>
+  <img src="./streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
