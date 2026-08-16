@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center">, I'm Nandhan</h1>
+## Hi there 👋<h1 align="center"> I'm  Nandhan</h1>
 <h3 align="center">
  Full Stack Web Developer | Data Analyst | Data Visualization
 </h3>
@@ -46,7 +46,7 @@
 Modern personal portfolio showcasing projects, skills, and experience.
 **Tech Stack**
 `HTML` `CSS` `JavaScript` `React`
-- 🌐 Live Demo: [Portfolio URL]
+- 🌐 Live Demo: [https://portfolio-96w4.vercel.app/]
 - 🔗 Repository: [GitHub Repository]
 
 ---
@@ -55,7 +55,7 @@ Modern personal portfolio showcasing projects, skills, and experience.
 A responsive online shopping platform with authentication and cart functionality.
 **Tech Stack**
 `React` `Node.js` `Express` `MongoDB`
-- 🌐 Live Demo: [Project URL]
+- 🌐 Live Demo: [https://macbookproplus.netlify.app/]
 - 🔗 Repository: [GitHub Repository]
 
 ---
@@ -64,7 +64,7 @@ A responsive online shopping platform with authentication and cart functionality
 A productivity application to organize daily tasks with authentication.
 **Tech Stack**
 `React` `Firebase` `Tailwind CSS`
-- 🌐 Live Demo: [Project URL]
+- 🌐 Live Demo: [https://data-analysis-sandy.vercel.app/]
 - 🔗 Repository: [GitHub Repository]
 
 ---
