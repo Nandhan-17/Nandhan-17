@@ -48,16 +48,16 @@ Modern personal portfolio showcasing projects, skills, and experience.
 **Tech Stack**
 `HTML` `CSS` `JavaScript` `React`
 - 🌐 Live Demo: [https://portfolio-96w4.vercel.app/]
-- 🔗 Repository: [GitHub Repository]
+  
 
 ---
 
 ## E-Commerce Website 🛒
 A responsive online shopping platform with authentication and cart functionality.
 **Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
+`React` `Node.js` `Express`HTML` `CSS` `JavaScript` 
 - 🌐 Live Demo: [https://macbookproplus.netlify.app/]
-- 🔗 Repository: [GitHub Repository]
+
 
 ---
 
@@ -66,7 +66,7 @@ A productivity application to organize daily tasks with authentication.
 **Tech Stack**
 `React` `Firebase` `Tailwind CSS`
 - 🌐 Live Demo: [https://data-analysis-sandy.vercel.app/]
-- 🔗 Repository: [GitHub Repository]
+  
 
 ---
 
