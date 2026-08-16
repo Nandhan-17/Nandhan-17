@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
   
-  <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
+  <a href="https://https://portfolio-96w4.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   
