@@ -55,7 +55,7 @@ Modern personal portfolio showcasing projects, skills, and experience.
 ## E-Commerce Website 🛒
 A responsive online shopping platform with authentication and cart functionality.
 **Tech Stack**
-`React` `Node.js` `Express`HTML` `CSS` `JavaScript` 
+`React` `Node.js` `Express`
 - 🌐 Live Demo: [https://macbookproplus.netlify.app/]
 
 
@@ -72,8 +72,8 @@ A productivity application to organize daily tasks with authentication.
 
 # GitHub Stats 📊
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=[ Nandhan-17]&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Nandhan-17]&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -117,9 +117,9 @@ A productivity application to organize daily tasks with authentication.
 
 ---
 
-# Goals for 2025 🎯
+# Goals for 2026 🎯
 - Contribute to Open Source
-- Build SaaS Applications
+- Build  Applications
 - Master Full Stack Development
 - Learn Cloud Computing
 - Grow My Developer Portfolio
