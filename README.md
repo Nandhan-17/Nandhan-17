@@ -89,28 +89,28 @@ A productivity application to organize daily tasks with authentication.
 
 # 🛠 Currently Working On
 - Building full-stack web applications.
-- Learning advanced React ecosystem.
-- Exploring cloud deployment and DevOps.
-- Improving responsive UI/UX design.
+- Learning advanced Data Analyst.
+- developing interactive data dashboard.
+- Improving responsive UI/UX design and data visualization.
 
 ---
 
 # Currently Learning 🌱
-- TypeScript
-- Next.js
-- Docker
-- AWS
+- Data Visualization (Power BI)
+- Advanced SQL & Database Querying
+- Statistical Data Analysis
+- Exploratory Data Analyis (EDA)
 - System Design
 - Backend Architecture
 
 ---
 
 # Goals for 2026 🎯
-- Contribute to Open Source
-- Build  Applications
-- Master Full Stack Development
-- Learn Cloud Computing
-- Grow My Developer Portfolio
+- Contribute to Open Source.
+- Build and deploy production-ready ML models.
+- Master advanced Deep Learning and LLM application.
+- Automate end-to-end data and MLOps pipelines.
+- build the strong career and grow up
 
 ---
 
