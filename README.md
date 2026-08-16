@@ -70,14 +70,7 @@ A productivity application to organize daily tasks with authentication.
 
 ---
 
-# GitHub Stats 📊
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nandhan-17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhan-17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 
 # GitHub Streak 🔥
@@ -92,12 +85,7 @@ A productivity application to organize daily tasks with authentication.
 
 ---
 
-# GitHub Streak 🔥
-<p align="center">
-  <img src="./streak.svg" alt="GitHub Streak" />
-</p>
 
----
 
 # 🛠 Currently Working On
 - Building full-stack web applications.
