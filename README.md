@@ -9,12 +9,13 @@
 ---
 
 ## About Me 🙋‍♂️
-- I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
-- I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud Technologies**.
-- Open to collaborating on exciting web development and open-source projects.
-- Always exploring modern technologies and best development practices.
-- Fun Fact: **I love solving coding challenges and building useful applications.**
+
+- 🔭 I’m an aspiring **Data Scientist / Data Analyst** passionate about extracting actionable insights from complex data.
+- 💡 I enjoy turning raw data into interactive dashboards, predictive models, and real-world data pipelines.
+- 📚 Currently learning **Advanced Machine Learning, MLOps, and Big Data Technologies**.
+- 🤝 Open to collaborating on **Data Science, AI, and Open-Source Analytics projects**.
+- ⚡ Fun Fact: **I believe data speaks louder than assumptions—and I love making it talk!**
+-
 
 ---
 
