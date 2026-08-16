@@ -71,16 +71,18 @@ A productivity application to organize daily tasks with authentication.
 ---
 
 # GitHub Stats 📊
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=[ Nandhan-17]&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Nandhan-17]&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandhan-17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandhan-17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 # GitHub Streak 🔥
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Nandhan-17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
