@@ -89,14 +89,14 @@ A productivity application to organize daily tasks with authentication.
 
 # Contribution Graph 📈
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[GitHubUsername]&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[Nandhan-17]&theme=tokyo-night"/>
 </p>
 
 ---
 
 # GitHub Trophies 🏆
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin_w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=[Nandhan-17]&theme=tokyonight&no-frame=true&margin_w=10"/>
 </p>
 
 ---
