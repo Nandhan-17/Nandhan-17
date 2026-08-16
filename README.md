@@ -89,7 +89,7 @@ A productivity application to organize daily tasks with authentication.
 
 # Contribution Graph 📈
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[Nandhan-17]&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhan-17&theme=tokyo-night"/>
 </p>
 
 ---
