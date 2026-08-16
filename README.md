@@ -82,7 +82,8 @@ A productivity application to organize daily tasks with authentication.
 
 # GitHub Streak 🔥
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nandhan-17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-47-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Current%20Streak-2-flame?style=for-the-badge&logo=github&color=orange" />
 </p>
 
 # Contribution Graph 📈
