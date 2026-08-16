@@ -20,7 +20,7 @@
 
 ## Connect With Me 🤝
 <p align="left">
-<a href="[ linkedin.com/in/nandhan-ai]">
+<a href="[[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ linkedin.com/in/nandhan-ai )]">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="[ nandhanportfolio.netlify.app  ]">
