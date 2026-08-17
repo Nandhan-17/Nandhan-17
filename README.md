@@ -65,7 +65,7 @@ Apple E-Commerce Frontend Showcase: Interactive UI with Real-time Cart Functiona
 ## Task Management App 📝 
 Built an end-to-end Claims Analytics Web Application that converts raw CSV data into interactive visual dashboards with visual insights.
 **Tech Stack**
-`React` `Next.js` `Tailwind CSS` `Tailwind` `REST API` `postgreSQL`
+`React` `Next.js` `Tailwind CSS` `TypeScript` `REST API` `postgreSQL`
 - 🌐 Live Demo: [https://data-analysis-sandy.vercel.app/]
   
 
