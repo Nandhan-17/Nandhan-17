@@ -54,18 +54,18 @@ Modern personal portfolio showcasing projects, skills, and experience.
 ---
 
 ## E-Commerce Website 🛒
-A responsive online shopping platform with authentication and cart functionality.
+Apple E-Commerce Frontend Showcase: Interactive UI with Real-time Cart Functionality.
 **Tech Stack**
-`React` `Node.js` `Express`
+`React` `HTML` `JavaScript` `CSS`
 - 🌐 Live Demo: [https://macbookproplus.netlify.app/]
 
 
 ---
 
-## Task Management App 📝
-A productivity application to organize daily tasks with authentication.
+## Task Management App 📝 
+Built an end-to-end Claims Analytics Web Application that converts raw CSV data into interactive visual dashboards with visual insights.
 **Tech Stack**
-`React` `Firebase` `Tailwind CSS`
+`React` `Next.js` `Tailwind CSS` `Tailwind` `REST API` `postgreSQL`
 - 🌐 Live Demo: [https://data-analysis-sandy.vercel.app/]
   
 
