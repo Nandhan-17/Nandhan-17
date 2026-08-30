@@ -1,9 +1,9 @@
 ## Hi there 👋<h1 align="center"> I'm  Nandhan</h1>
 <h3 align="center">
- Full Stack Web Developer | Data Analyst | Data Visualization
+Data Analyst | Data Visualization
 </h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Insight+Architech;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 - 🔭 I’m an aspiring **Data Scientist / Data Analyst** passionate about extracting actionable insights from complex data.
 - 💡 I enjoy turning raw data into interactive dashboards, predictive models, and real-world data pipelines.
-- 📚 Currently learning **Advanced Machine Learning, MLOps, and Big Data Technologies**.
+- 📚 Currently learning **Machine Learning, Predictive Strategist, and AI Technologies**.
 - 🤝 Open to collaborating on **Data Science, AI, and Open-Source Analytics projects**.
 - ⚡ Fun Fact: **I believe data speaks louder than assumptions—and I love making it talk!**
 -
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
   
-  <a href="https://portfolio-96w4.vercel.app/" target="_blank">
+  <a href="https://data-analyst-portfolio-peach.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   
@@ -48,7 +48,7 @@
 Modern personal portfolio showcasing projects, skills, and experience.
 **Tech Stack**
 `HTML` `CSS` `JavaScript` `React`
-- 🌐 Live Demo: [https://portfolio-96w4.vercel.app/]
+- 🌐 Live Demo: [https://data-analyst-portfolio-peach.vercel.app/]
   
 
 ---
@@ -66,7 +66,7 @@ Apple E-Commerce Frontend Showcase: Interactive UI with Real-time Cart Functiona
 Built an end-to-end Claims Analytics Web Application that converts raw CSV data into interactive visual dashboards with visual insights.
 **Tech Stack**
 `React` `Next.js` `Tailwind CSS` `TypeScript` `REST API` `postgreSQL`
-- 🌐 Live Demo: [https://data-analysis-sandy.vercel.app/]
+- 🌐 Live Demo: [https://stark-analytics-eta.vercel.app/]
   
 
 ---
