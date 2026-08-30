@@ -15,7 +15,7 @@ Data Analyst | Data Scientist
 - 📚 Currently learning **Machine Learning, Predictive Strategist, and AI Technologies**.
 - 🤝 Open to collaborating on **Data Science, AI, and Open-Source Analytics projects**.
 - ⚡ Fun Fact: **I believe data speaks louder than assumptions—and I love making it talk!**
--
+
 
 ---
 
