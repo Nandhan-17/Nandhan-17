@@ -1,6 +1,6 @@
 ## Hi there 👋<h1 align="center"> I'm  Nandhan</h1>
 <h3 align="center">
-< Data Analyst >
+> Data Analyst <
 </h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Insight+Architech;Python+%7C+Pandas+%7C+Numpy+%7C+Seaborn+%7C+Matplotlib;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
@@ -8,7 +8,7 @@
 
 ---
 
-## About Me 🙋‍♂️
+## About Me 🎯
 
 - 🔭 I’m an aspiring **Data Analyst** passionate about extracting actionable insights from complex data.
 - 💡 I enjoy turning raw data into interactive dashboards, predictive models, and real-world data pipelines.
