@@ -38,14 +38,11 @@
 # Tech Stack 💻
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,vscode" height="48"/>
-
-  <img src="https://img.icons8.com/color/96/microsoft-power-bi.png" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" width="48"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="48"/>
   <img src="https://img.icons8.com/color/96/tableau-software.png" height="48"/>
-  <img src="https://img.icons8.com/color/96/jupyter.png" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" width="48"/>
 </p>
----
-
 # Featured Projects 🚀
 
 ## Portfolio Website 🖥️
