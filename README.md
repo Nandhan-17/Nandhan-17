@@ -37,13 +37,13 @@
 
 # Tech Stack 💻
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,vscode" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,vscode" height="48"/>
 
+  <img src="https://img.icons8.com/color/96/microsoft-power-bi.png" height="48"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="48"/>
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="48"/>
+  <img src="https://img.icons8.com/color/96/jupyter.png" height="48"/>
+</p>
 ---
 
 # Featured Projects 🚀
