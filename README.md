@@ -38,8 +38,6 @@
 # Tech Stack 💻
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,firebase,powerbi,excel,tableau,git,github,jupyter,vscode"/>
-</p><p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,firebase,powerbi,excel,tableau,git,github,jupyter,vscode"/>
 </p>
 
 ---
