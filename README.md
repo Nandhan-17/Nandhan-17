@@ -84,7 +84,7 @@ Built an end-to-end Claims Analytics Web Application that converts raw CSV data 
 
 # Contribution Graph 📈
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nandhan-17&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandhan-17&show_icons=true&theme=tokyonight" />
 </p>
 ---
 
