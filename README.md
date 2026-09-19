@@ -37,7 +37,9 @@
 
 # Tech Stack 💻
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,firebase,powerbi,excel,tableau,git,github,jupyter,vscode"/>
+</p><p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,firebase,powerbi,excel,tableau,git,github,jupyter,vscode"/>
 </p>
 
 ---
