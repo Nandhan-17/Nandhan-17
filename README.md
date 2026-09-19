@@ -37,7 +37,11 @@
 
 # Tech Stack 💻
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,firebase,powerbi,excel,tableau,git,github,jupyter,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,vscode" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="48" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="48" />
 </p>
 
 ---
