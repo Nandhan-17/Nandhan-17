@@ -84,7 +84,7 @@ Built an end-to-end Claims Analytics Web Application that converts raw CSV data 
 
 # Contribution Graph 📈
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nandhan-17/Nandhan-17/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/tokyonight/Nandhan-17" alt="Nandhan-17's Github Chart" />
 </p>
 ---
 
