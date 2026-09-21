@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- 1a. Capsule Render Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1b4332&height=220&section=header&text=Nandhan&fontSize=80&fontColor=e9f5ed&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Nandhan&fontSize=80&fontColor=ffffff&animation=twinkle" width="100%" />
 
 <!-- 1b. Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=52b788&center=true&vCenter=true&width=800&lines=Insight+Architect+%7C+Data+Analyst;Python+%7C+Pandas+%7C+NumPy+%7C+SQL;Building+Interactive+Dashboards+%26+ML+Pipelines;Data+Cleaning+%26+EDA+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B6FF&center=true&vCenter=true&width=800&lines=Insight+Architect+%7C+Data+Analyst;Python+%7C+Pandas+%7C+NumPy+%7C+SQL;Building+Interactive+Dashboards+%26+ML+Pipelines;Data+Cleaning+%26+EDA+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- 1c. Badges Section -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech_Artificial_Intelligence_%26_Data_Science-2d6a4f?style=for-the-badge&logo=academic&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-Thiruvarur-40916c?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech_Artificial_Intelligence_%26_Data_Science-0A66C2?style=for-the-badge&logo=academic&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Thiruvarur-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
 </p>
 
 <!-- 1d. Social Buttons -->
 <p align="center">
-  <a href="https://data-analyst-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1b4332?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://data-analyst-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nandhan-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nandhanudhayakumar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Nandhan-17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -26,9 +26,9 @@
 
 <!-- 1e. Metrics Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nandhan-17&style=flat-square&color=2d6a4f&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Nandhan-17?style=flat-square&color=40916c&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Nandhan-17?style=flat-square&color=52b788&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Nandhan-17&style=flat-square&color=0A66C2&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Nandhan-17?style=flat-square&color=0077B5&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Nandhan-17?style=flat-square&color=38B6FF&label=STARS" alt="Stars" />
 </p>
 
 </div>
@@ -106,12 +106,12 @@ Built an end-to-end Claims Analytics Web Application that converts raw CSV data 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nandhan-17&show_icons=true&hide_border=true&bg_color=0b1d14&title_color=52b788&icon_color=40916c&text_color=b7e4c7" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Nandhan-17&hide_border=true&background=0b1d14&ring=40916c&fire=52b788&currStreakLabel=52b788&sideLabels=b7e4c7&sideNums=b7e4c7&currStreakNum=ffffff" alt="Streak Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nandhan-17&show_icons=true&hide_border=true&bg_color=0a192f&title_color=38b6ff&icon_color=0a66c2&text_color=ffffff" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Nandhan-17&hide_border=true&background=0a192f&ring=0a66c2&fire=38b6ff&currStreakLabel=38b6ff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=38b6ff" alt="Streak Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nandhan-17&layout=compact&hide_border=true&bg_color=0b1d14&title_color=52b788&text_color=b7e4c7" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nandhan-17&layout=compact&hide_border=true&bg_color=0a192f&title_color=38b6ff&text_color=ffffff" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ Built an end-to-end Claims Analytics Web Application that converts raw CSV data 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/2d6a4f/Nandhan-17" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/0A66C2/Nandhan-17" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
@@ -146,5 +146,5 @@ Built an end-to-end Claims Analytics Web Application that converts raw CSV data 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1b4332&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" width="100%" />
 </p>
