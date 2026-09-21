@@ -55,12 +55,13 @@ I am an aspiring **Data Analyst & Insight Architect** passionate about extractin
 <div align="center">
 
 | Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" /> |
-| **Analytics & Viz** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40"/> &nbsp; <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="40"/> &nbsp; <img src="https://img.icons8.com/color/96/tableau-software.png" height="40"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="40"/> |
-| **Cloud, DevOps & Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" /> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,firebase,git,github,vscode" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" width="48"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="48"/>
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" width="48"/>
+</p>
 
 </div>
 
@@ -144,7 +145,7 @@ Designed with light-footprint frontend frameworks, fully mobile-responsive layou
 ## 6. Experience
 
 ### Data Analyst & Software Developer (Projects & Portfolio)
-**Independent / Open Source** | *2024 – Present*
+
 
 Designed, developed, and deployed data analysis frameworks, custom ML experiments, and automated visualization dashboards for enterprise-like datasets.
 
@@ -169,21 +170,7 @@ Designed, developed, and deployed data analysis frameworks, custom ML experiment
 
 ---
 
-## 8. Certifications
 
-#### AWS
-![](https://img.shields.io/badge/AWS-Cloud_Practioner_Foundations-232F3E?style=flat-square&logo=amazon-aws)
-
-#### Oracle
-![](https://img.shields.io/badge/Oracle-Database_SQL_Certified-F80000?style=flat-square&logo=oracle)
-
-#### NPTEL
-![](https://img.shields.io/badge/NPTEL-Data_Analytics_&_Python-005696?style=flat-square)
-
-#### Cisco
-![](https://img.shields.io/badge/Cisco-Networking_&_Cybersecurity_Essentials-1BA0D7?style=flat-square&logo=cisco)
-
----
 
 ## 9. Coding Profiles
 
@@ -211,11 +198,6 @@ Designed, developed, and deployed data analysis frameworks, custom ML experiment
 
 ---
 
-## 11. GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nandhan-17&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
 
 ---
 
