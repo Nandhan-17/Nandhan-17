@@ -219,25 +219,33 @@ Designed, developed, and deployed data analysis frameworks, custom ML experiment
 
 ## 14. Current Focus
 
-```yaml
-learning:
-  - Advanced Machine Learning & LLM Orchestration
-  - Deep Learning Frameworks
-  - MLOps & Automated Data Pipelines
-building:
-  - Scalable Full-Stack Data Applications
-  - Automated Business Intelligence Dashboards
-exploring:
-  - Distributed Systems & High-Throughput Databases
-open_to:
-  - Open Source Data Science Collaborations
-  - Data Engineering & Analytics Roles
+### 🚀 Current Focus
 
-15. Connect
+* **Learning:** Advanced Machine Learning & LLM Orchestration, Deep Learning Frameworks, MLOps & Automated Data Pipelines
+* **Building:** Scalable Full-Stack Data Applications, Automated Business Intelligence Dashboards
+* **Exploring:** Distributed Systems & High-Throughput Databases
+* **Open to:** Open Source Data Science Collaborations, Data Engineering & Analytics Roles
+
+---
+
+### 🌐 Connect
+
 <p align="center">
 <a href="mailto:nandhanudhayakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nandhan-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Nandhan-17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://data-analyst-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+<em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7000ff&height=120&section=footer" width="100%" />
+</p>
 <a href="https://data-analyst-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 16. Footer
