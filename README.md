@@ -82,93 +82,37 @@ I am an aspiring **Data Analyst & Insight Architect** passionate about extractin
 
 ## 5. Featured Projects
 
-<details>
-<summary><b>🚀 Task Management & Claims Analytics App</b></summary>
-<br/>
-
-An end-to-end analytics and management web platform converting raw dataset files into high-performance visual insights and actionable executive metrics.
-
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | React, Next.js, Tailwind CSS, TypeScript, PostgreSQL, REST API |
-| **Scale** | Multi-tenant analytical processing framework |
-| **Performance** | <100ms API response latency with optimized SQL queries |
-| **Security** | Encrypted endpoint routing and protected schema structures |
-| **Impact** | Reduced operational data latency and manual dashboard reporting time |
-| **Repository** | [View Source Code](https://github.com/Nandhan-17) \| [Live Demo](https://stark-analytics-eta.vercel.app/) |
-
-#### Architecture & Implementation
-Engineered with Next.js and PostgreSQL to dynamically read raw data payloads and deliver real-time aggregation across metrics. Utilizes Tailwind CSS for adaptive, high-throughput enterprise dashboard render times.
-
-</details>
-
-<details>
-<summary><b>🛒 E-Commerce Showcase (Apple Ecosystem UI)</b></summary>
-<br/>
-
-A high-performance frontend showcase highlighting modern product architectural design, dynamic state management, and real-time cart functionality.
-
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | React, JavaScript, HTML5, CSS3, Vercel/Netlify |
-| **Scale** | Client-side reactive interface |
-| **Performance** | 99+ Lighthouse performance & accessibility score |
-| **Security** | Client-side data state sanitization |
-| **Impact** | Standardized reusable component infrastructure |
-| **Repository** | [View Source Code](https://github.com/Nandhan-17) \| [Live Demo](https://macbookproplus.netlify.app/) |
-
-#### Architecture & Implementation
-Implements responsive design systems using component-driven React principles to minimize re-renders and streamline state flow across shopping workflows.
-
-</details>
-
-<details>
-<summary><b>🖥️ Developer Portfolio Platform</b></summary>
-<br/>
-
-A modern responsive developer portfolio built to showcase live analytics models, software projects, and interactive tools.
-
-| Metric | Specification |
-| :--- | :--- |
-| **Stack** | React, HTML5, CSS3, JavaScript, Vercel |
-| **Scale** | Global edge distribution via Vercel CDN |
-| **Performance** | Instant TTFB (Time to First Byte) rendering |
-| **Security** | HTTPS SSL automated transport layers |
-| **Impact** | Personal brand anchor driving portfolio visibility |
-| **Repository** | [View Source Code](https://github.com/Nandhan-17) \| [Live Demo](https://data-analyst-portfolio-peach.vercel.app/) |
-
-#### Architecture & Implementation
-Designed with light-footprint frontend frameworks, fully mobile-responsive layouts, and high-contrast accessibility standards.
-
-</details>
+## Portfolio Website 🖥️
+Modern personal portfolio showcasing projects, skills, and experience.
+**Tech Stack**
+`HTML` `CSS` `JavaScript` `React`
+- 🌐 Live Demo: [https://data-analyst-portfolio-peach.vercel.app/]
+  
 
 ---
 
-## 6. Experience
+## E-Commerce Website 🛒
+Apple E-Commerce Frontend Showcase: Interactive UI with Real-time Cart Functionality.
+**Tech Stack**
+`React` `HTML` `JavaScript` `CSS`
+- 🌐 Live Demo: [https://macbookproplus.netlify.app/]
 
-### Data Analyst & Software Developer (Projects & Portfolio)
-
-
-Designed, developed, and deployed data analysis frameworks, custom ML experiments, and automated visualization dashboards for enterprise-like datasets.
-
-- Formulated automated data pipelines utilizing **Python**, **Pandas**, and **SQL** to process raw unstructured inputs into clean structured datasets.
-- Built full-stack dynamic visualization tools leveraging **React**, **Next.js**, and **PostgreSQL** to display key business metrics.
-- Applied statistical routines, exploratory analysis, and feature engineering targeting high-accuracy predictive output models.
-
-`Python` `SQL` `Power BI` `React` `PostgreSQL` `Data Visualization`
 
 ---
 
-## 7. Achievements
+## Task Management App 📝 
+Built an end-to-end Claims Analytics Web Application that converts raw CSV data into interactive visual dashboards with visual insights.
+**Tech Stack**
+`React` `Next.js` `Tailwind CSS` `TypeScript` `REST API` `postgreSQL`
+- 🌐 Live Demo: [https://stark-analytics-eta.vercel.app/]
+  
 
-<div align="center">
+---
 
-| Recognition | Details |
-| :--- | :--- |
-| **Open Source Contributor** | Active maintainer of multiple personal data and web repositories on GitHub |
-| **10+ Analytics Dashboards** | Designed dynamic dashboards using Power BI, Tableau, and custom web platforms |
 
-</div>
+
+
+
 
 ---
 
@@ -229,14 +173,6 @@ Designed, developed, and deployed data analysis frameworks, custom ML experiment
 
 ---
 
-### 🌐 Connect
-
-<p align="center">
-<a href="mailto:nandhanudhayakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nandhan-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Nandhan-17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://data-analyst-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
 
 ---
 
@@ -247,11 +183,3 @@ Designed, developed, and deployed data analysis frameworks, custom ML experiment
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7000ff&height=120&section=footer" width="100%" />
 </p>
-<a href="https://data-analyst-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-16. Footer
-<div align="center">
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
-> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7z00ff&height=120&section=footer" width="100%" />
-</div>
