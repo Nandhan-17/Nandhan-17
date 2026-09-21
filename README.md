@@ -187,12 +187,12 @@ Designed, developed, and deployed data analysis frameworks, custom ML experiment
 ## 10. GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandhan-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=C77DFF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nandhan-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=C77DFF" alt="GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=Nandhan-17&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=9D4EDD" alt="Streak Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhan-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C77DFF" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nandhan-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C77DFF" alt="Top Languages" height="165" />
 </p>
 
 </div>
