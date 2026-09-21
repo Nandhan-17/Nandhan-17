@@ -174,27 +174,26 @@ Designed, developed, and deployed data analysis frameworks, custom ML experiment
 
 
 
-## 9. Coding Profiles
+## 9. Current Learning
 
-<p align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-  <a href="https://www.codechef.com"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</p>
-
+- Data Visualization (Power BI)
+- Advanced SQL & Database Querying
+- Statistical Data Analysis
+- Exploratory Data Analyis (EDA)
+- System Design
+- Backend Architecture
 ---
 
 ## 10. GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandhan-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=C77DFF" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Nandhan-17&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=9D4EDD" alt="Streak Stats" height="165" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nandhan-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=C77DFF" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandhan-17&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2CBF&fire=9D4EDD&currStreakLabel=9D4EDD" alt="Streak Stats" height="170" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhan-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C77DFF" alt="Top Languages" height="170" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhan-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C77DFF" alt="Top Languages" height="165" />
+</p>
 
 </div>
 
