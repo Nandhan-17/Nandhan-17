@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- 1a. Capsule Render Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7z00ff&height=220&section=header&text=Nandhan&fontSize=80&fontColor=ffffff&animation=twinkle" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7000ff&height=220&section=header&text=Nandhan&fontSize=80&fontColor=ffffff&animation=twinkle" width="100%" />
 
-<!-- 1b. Typing SVG Animation -->
+<!-- 1b. Typing SVG Animation (Updated & Fixed URL) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Insight+Architect+%7C+Data+Analyst;Python+%7C+Pandas+%7C+NumPy+%7C+SQL;Building+Interactive+Dashboards+%26+ML+Pipelines;Data Cleaning+%26+EDA+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Insight+Architect+%7C+Data+Analyst;Python+%7C+Pandas+%7C+NumPy+%7C+SQL;Building+Interactive+Dashboards+%26+ML+Pipelines;Data+Cleaning+%26+EDA+Engineering" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 1c - 1k. Badges Section -->
+<!-- 1c. Badges Section -->
 <p align="center">
-  <!-- 1c. Academic badges -->
-  <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech_Artificial_Intelligence&Data_Science-7B2CBF?style=for-the-badge&logo=academic&logoColor=white" /></a>
-  <!-- 1d. Location badge -->
-  <a href="#"><img src="https://img.shields.io/badge/Location-Thiruvarur-5A189A?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech_Artificial_Intelligence_%26_Data_Science-7B2CBF?style=for-the-badge&logo=academic&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Thiruvarur-7B2CBF?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+</p>
+
+</div>
   <!-- 1e. Portfolio button -->
   <a href="https://data-analyst-portfolio-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <!-- 1f. LinkedIn button -->
