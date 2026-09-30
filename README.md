@@ -82,7 +82,7 @@ Modern personal portfolio showcasing projects, skills, and experience.
 ### E-Commerce Website 🛒
 Apple E-Commerce Frontend Showcase: Interactive UI with Real-time Cart Functionality.  
 **Tech Stack:** `React` `HTML` `JavaScript` `CSS`  
-- 🌐 Live Demo: [https://macbookproplus.netlify.app/](https://macbookproplus.netlify.app/)
+- 🌐 Live Demo: [https://macbookproplus.netlify.app/](https://ecommerce-omega-one-52.vercel.app/)
 
 ---
 
